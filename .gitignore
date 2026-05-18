@@ -4,3 +4,5 @@ __pycache__/
 cityops.sqlite
 .DS_Store
 .claude/
+docs/
+SESSION_SUMMARY.md
